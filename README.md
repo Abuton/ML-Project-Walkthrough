@@ -9,5 +9,8 @@ The steps to follow for each project is what I call the MLPLC Machine Learning P
 5. **Evaluate the best model on the test set**
 I  hope to explain basic and advanced techniques and terms in ML 
 and clear some few misconceptions. 
+Code files can be found in the **ProjectWalkthrough Folder**
+
+Do leave a star as you clone /  download the repo thanks
 
 The class will run on YouTube and it starts on Monday 1st of June, 2020
